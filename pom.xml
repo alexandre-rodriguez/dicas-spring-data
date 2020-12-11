@@ -66,6 +66,7 @@
 	<modules>
 		<module>001-QueryMethod</module>
 		<module>002-CustomQuery</module>
+		<module>003-OthersFeatures</module>
 	</modules>
 
 
