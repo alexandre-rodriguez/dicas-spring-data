@@ -69,6 +69,7 @@
 		<module>003-OthersFeatures</module>
 		<module>004-NamedQueries</module>
 		<module>005-QueryProjections</module>
+		<module>006-CompositeRepository</module>
 	</modules>
 
 

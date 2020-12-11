@@ -10,5 +10,7 @@
 
 005 - Projeções de consulta
 
+006 - Repositórios compostos: ampliar seu repositório Spring Data JPA
+
 
 
